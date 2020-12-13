@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The goal of this project was to predict responses to two sub-questions on the frequency of anxiety or depressive-like symptoms in the past 7 days, respectively. Using deidentified data collected from June 1, 2020 to June 8, 2020 via the COVID Impact Survey, the tool I designed also looks at the features most important in the final prediction. 
+The goal of this project was to predict responses to two sub-questions on the frequency of anxiety or depressive-like symptoms, respectively, in the past 7 days during the COVID-19 pandemic. Using deidentified data collected from June 1, 2020 to June 8, 2020 via the COVID Impact Survey, the tool I designed also looks at the features most important in the final prediction. 
 
 <!-- GETTING STARTED -->
 ## Getting Started
